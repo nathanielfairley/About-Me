@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nathaniel Fairley's About Me Page</title>
+  </head>
+  <body>
+    <h2>Nathaniel Fairley</h2>
+    <h3>Class Schedule</h3>
+      <ol>
+        <li>Period 1/2 - Spanish: Composition (A) or Honors Algebra II (B)</li>
+        <li>Period 3/4 - CTE: Internet Concepts (AB)</li>
+        <li>Period 5/6 - U.S. History II (A) or Honors American Literature (B)</li>
+        <li>Period 7 - Lunch</li>
+        <li>Period 8/9 - Personal Finance (A) or Chemistry (B)</li>
+      </ol>
+
+    <h3>Class Schedule</h3>
+      <ul>
+        <li>Volleyball</li>
+        <li>Videogames - Rocket League</li>
+        <li>Basketball</li>
+        <li>Hanging with friends</li>
+      </ul>
+  </body>
+
+</html>
